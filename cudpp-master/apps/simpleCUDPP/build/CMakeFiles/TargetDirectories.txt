@@ -1,0 +1,3 @@
+/public/home/mzy6562523/Tests/cudpp-master/apps/simpleCUDPP/build/CMakeFiles/edit_cache.dir
+/public/home/mzy6562523/Tests/cudpp-master/apps/simpleCUDPP/build/CMakeFiles/rebuild_cache.dir
+/public/home/mzy6562523/Tests/cudpp-master/apps/simpleCUDPP/build/CMakeFiles/simpleCUDPP.dir
